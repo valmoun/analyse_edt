@@ -1,7 +1,9 @@
 """
 Module de calcul de durée d'événements pour l'analyse d'emploi du temps.
 
-Ce module fournit une fonction principale, calculate_duration, qui permet de calculer la durée en minutes d'un événement à partir de ses dates et heures de début et de fin, ou de retourner une durée standard pour une journée entière. 
+Ce module fournit une fonction principale, calculate_duration, qui permet de calculer la durée en
+minutes d'un événement à partir de ses dates et heures de début et de fin, ou de retourner une
+durée standard pour une journée entière. 
 
 Fonctionnalités :
 - Calcul de la durée en minutes entre deux dates/heures.
